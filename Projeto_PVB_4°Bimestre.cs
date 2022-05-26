@@ -1,6 +1,7 @@
 /*
     Projeto do 4° Bimestre do segundo ano do Técnico em Informática.
-    Programa que possibilita cadastrar novos registros, visualizá-los e pesquisar um registro específico através do código. Os registros podem ter uma foto da pessoa.
+    Programa que possibilita cadastrar novos registros, visualizá-los e pesquisar um registro específico através do código. 
+    Os registros podem ter uma foto da pessoa.
     OBS: Os registros são salvos em um arquivo texto.
 */
 
